@@ -1,0 +1,8 @@
+{
+  "name": "krist4lle/lviv-it-test",
+  "description": "Test task",
+  "require": {
+    "php": "8.2",
+    "another-vendor/package": "1.*"
+  }
+}
